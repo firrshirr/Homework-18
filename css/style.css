@@ -1,5 +1,6 @@
 h1 {
     font-family: helvetica, arial, sans-serif;
+    color: red;
    }
    .separator {
      width: 750px;
@@ -12,4 +13,6 @@ h1 {
      float: right;
      padding-left: 15px;
    }
+
+   
    
